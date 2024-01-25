@@ -1,0 +1,12 @@
+body{
+background-color:white;
+
+}
+
+header{
+    background-color: hsla(133, 100%, 75%, 1);
+    mask:initial;
+    width: 100%;
+    position: relative;
+    /* mask-type: alpha; */
+}
